@@ -36,3 +36,31 @@ The following functionality will not be tested:
 - Security testing
 - Compatibility with obsolete browsers
 - Database testing
+
+## Test Environment
+
+### Application
+
+SauceDemo
+
+https://www.saucedemo.com/
+
+### Browser
+
+- Google Chrome (latest stable version)
+
+### Operating System
+
+- Windows 10/11
+
+### Internet Connection
+
+- Stable broadband connection
+
+### Test Data
+
+Standard user:
+
+Username: standard_user
+
+Password: secret_sauce
